@@ -1,1 +1,1 @@
-# Graph-Ql-demo
+# Graph QL Workshop
